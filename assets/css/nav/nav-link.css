@@ -1,0 +1,13 @@
+.nav__link{
+  color: #808080;
+  text-transform: capitalize;
+}
+
+.nav__link--active{
+  color: #333333;
+  font-weight: bold;
+}
+
+.nav__link:hover{
+  text-decoration: underline;
+}
