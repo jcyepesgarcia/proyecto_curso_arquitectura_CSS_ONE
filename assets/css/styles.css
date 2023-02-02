@@ -1,0 +1,17 @@
+@import './header.css';
+@import './nav/nav-list.css';
+@import './nav/nav-link.css';
+@import './nav/nav-icon.css';
+@import './banner/banner.css';
+@import './banner/banner-titulo.css';
+@import './sobre/sobre.css';
+@import './sobre/sobre-titulo.css';
+@import './sobre/sobre-descripcion.css';
+@import './recetas.css';
+@import './recetas/receta.css';
+@import './recetas/receta-contenido.css';
+@import './recetas/receta-imagen.css';
+@import './recetas/receta-titulo.css';
+@import './recetas/receta-descripcion.css';
+@import './recetas/receta-boton.css';
+

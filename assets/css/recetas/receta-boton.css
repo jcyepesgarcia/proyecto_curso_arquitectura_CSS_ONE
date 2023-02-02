@@ -1,0 +1,20 @@
+.receta__boton{
+  background: #8D0606;
+  border:0.5px solid #8D0606;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFFFFF;
+  cursor: pointer;
+  transition: all .8s;
+  margin-bottom: 1rem;
+}
+
+.receta__boton:hover{
+  background: #fff;
+  border: 1px solid #8D0606;
+  color: #8D0606;
+  font-weight: bold;
+}
